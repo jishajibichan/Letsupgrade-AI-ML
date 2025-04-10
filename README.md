@@ -1,12 +1,12 @@
 markdown
 
-#AI & ML Project Repository 🚀
+# AI & ML Project Repository 🚀
 
 Welcome to my repository of Artificial Intelligence and Machine Learning projects! Each Jupyter notebook here explores a unique problem domain using a variety of ML/AI techniques and tools. Dive in and explore!
 
 ⸻
 
-##Technologies Used ⚙️
+## Technologies Used ⚙️
 	•	Languages: Python
 	•	Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, NLTK, TensorFlow/Keras (assumed), Statsmodels
 	•	Tools: Jupyter Notebook, Git, GitHub
@@ -14,7 +14,7 @@ Welcome to my repository of Artificial Intelligence and Machine Learning project
 
 ⸻
 
-##Projects & Assignments 📁
+## Projects & Assignments 📁
 
 1. DAY 3 Assignment AI ML.ipynb 📘
 
@@ -103,6 +103,6 @@ Algorithms/Topics: Text Preprocessing, Naive Bayes, TF-IDF, Logistic Regression
 Technologies: NLTK, Scikit-learn, Pandas
 
 ⸻
-##License
+## License
 
 This project is for learning and educational purposes. Feel free to explore and modify!
